@@ -6,27 +6,27 @@ Custom Web Applications for practicing.
 [Freecodecamp](https://www.freecodecamp.com/)
 
 
-## List of Project in order of increasing difficulty:
+## List of Project in order of increasing difficulty with example Implementations
 #### Random Quotes
 ```
 Generate Random quotes in the webpage
 ```
-[Use this as an example](https://codepen.io/freeCodeCamp/full/ONjoLe)
+https://codepen.io/freeCodeCamp/full/ONjoLe
 
 #### Weather App
 ```
 Gets you the weather of the days
 ```
-[Use this as an example](http://codepen.io/freeCodeCamp/full/bELRjV)
+http://codepen.io/freeCodeCamp/full/bELRjV
 
 #### Twitch JSON API
-[Use this as an example](https://codepen.io/freeCodeCamp/full/Myvqmo
+https://codepen.io/freeCodeCamp/full/Myvqmo
 
 #### Wikipedia Viewer
-[Use this as an example](https://codepen.io/freeCodeCamp/full/wGqEga
+https://codepen.io/freeCodeCamp/full/wGqEga
 
 #### Calcualtor
-[User this as an example](https://codepen.io/freeCodeCamp/full/rLJZrA)
+https://codepen.io/freeCodeCamp/full/rLJZrA)
 
 #### Pomodoro Clock
 https://codepen.io/freeCodeCamp/full/aNyxXR
